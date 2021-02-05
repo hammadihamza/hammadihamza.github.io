@@ -60,6 +60,12 @@ input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
+.GithubLink{
+	border: 2px solid white;
+}
+.GithubLink:hover{
+	color:white;
+}
 
 input, select, textarea {
 	-moz-appearance: none;
