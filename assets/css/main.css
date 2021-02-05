@@ -61,8 +61,7 @@ input::-moz-focus-inner {
 	padding: 0;
 }
 .GithubLink{
-	padding:3px;
-	border: 2px solid white;
+	font-size:2rem;
 }
 .GithubLink:hover{
 	color:#4682b4;
