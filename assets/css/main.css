@@ -65,6 +65,8 @@ input::-moz-focus-inner {
 }
 .GithubLink:hover{
 	color:#4682b4;
+	margin-bottom:1px solid green;
+	padding-bottom:5px;
 }
 
 input, select, textarea {
