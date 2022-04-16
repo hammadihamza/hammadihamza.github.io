@@ -1,2 +1,2 @@
 # hammadihamza.github.io
-this is my portfolio
+Visit my portfolio to know more about me.
